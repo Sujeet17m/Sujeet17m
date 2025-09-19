@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Quick About Me
+## 🚀 Quick About Me :
 - B.Tech in Computer Science (always learning, always building).
 - I craft crisp frontends (React, GSAP), robust backends (Node, Express, MongoDB), and love data wrangling (Python, SQL).
 - 💡 My projects? Short, sharp, demo-ready. I build for impact, not just for show.
